@@ -2,7 +2,7 @@
 
 # Encryption Performance Comparison Script
 # Compares 3DES vs AES algorithms with different modes and key sizes
-# Author: [Your Name]
+# Author: Taylor Waldo
 # Date: September 2025
 
 set -e  # Exit on any error
