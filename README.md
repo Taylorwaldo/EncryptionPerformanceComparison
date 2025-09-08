@@ -1,4 +1,4 @@
-# Q1: Encryption Performance Comparison - 3DES vs AES
+# Encryption Performance Comparison - 3DES vs AES
 
 ## Overview
 This analysis compares the performance of different encryption algorithms using OpenSSL commands in Kali Linux to benchmark:
